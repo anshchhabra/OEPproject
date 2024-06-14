@@ -14,14 +14,7 @@ Maybe you can mention me or this repo in the acknowledgements too
   
 <!-- Badges -->
 
-   
-<h4>
-    <a href="https://chintan-golakiya.github.io/online-exam-portal-frontend/">View Demo</a>
-  <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Report Bug</a>
-  <span> · </span>
-    <a href="https://github.com/chintan-golakiya/online-exam-portal/issues/">Request Feature</a>
-  </h4>
+  
 </div>
 
 <br />
@@ -194,9 +187,6 @@ Use following paths
 <!-- Contributing -->
 ## :wave: Contributing
 
-<a href="https://github.com/chintan-golakiya/online-exam-portal/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=chintan-golakiya/online-exam-portal" />
-</a>
 
 
 Contributions are always welcome!
@@ -214,10 +204,6 @@ Distributed under the no License.
 
 <!-- Contact -->
 ## :handshake: Contact
-
-Chintan Golakiya - [@_chint4n_](https://twitter.com/_chint4n_) - golakiyachintan24@gmail.com
-
-Project Link: [https://github.com/chintan-golakiya/online-exam-portal](https://github.com/chintan-golakiya/online-exam-portal)
 
 
 <!-- Acknowledgments -->
